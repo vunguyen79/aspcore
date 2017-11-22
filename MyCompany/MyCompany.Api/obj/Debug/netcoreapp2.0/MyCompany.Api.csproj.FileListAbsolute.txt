@@ -1,0 +1,42 @@
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Api.deps.json
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Api.runtimeconfig.json
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Api.runtimeconfig.dev.json
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Api.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Api.pdb
+C:\Working\AspCore2\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.csprojResolveAssemblyReference.cache
+C:\Working\AspCore2\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.csproj.CoreCompileInputs.cache
+C:\Working\AspCore2\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.AssemblyInfoInputs.cache
+C:\Working\AspCore2\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.AssemblyInfo.cs
+C:\Working\AspCore2\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.pdb
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\LogConfigure\log4net.xml
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Common.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Data.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Repository.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Service.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Service.pdb
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Common.pdb
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Data.pdb
+C:\Working\AspCore2\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Repository.pdb
+C:\Working\AspCore2\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.csprojResolveAssemblyReference.cache
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.csproj.CoreCompileInputs.cache
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.AssemblyInfoInputs.cache
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.AssemblyInfo.cs
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\obj\Debug\netcoreapp2.0\MyCompany.Api.pdb
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\LogConfigure\log4net.xml
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Api.deps.json
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Api.runtimeconfig.json
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Api.runtimeconfig.dev.json
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Api.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Api.pdb
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Common.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Data.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Repository.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Service.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Common.pdb
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Data.pdb
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Repository.pdb
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Api\bin\Debug\netcoreapp2.0\MyCompany.Service.pdb

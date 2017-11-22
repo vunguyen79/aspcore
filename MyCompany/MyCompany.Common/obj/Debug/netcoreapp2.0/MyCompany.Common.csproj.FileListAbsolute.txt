@@ -1,0 +1,18 @@
+C:\Working\AspCore2\MyCompany\MyCompany.Common\bin\Debug\netcoreapp2.0\MyCompany.Common.deps.json
+C:\Working\AspCore2\MyCompany\MyCompany.Common\bin\Debug\netcoreapp2.0\MyCompany.Common.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Common\bin\Debug\netcoreapp2.0\MyCompany.Common.pdb
+C:\Working\AspCore2\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.csprojResolveAssemblyReference.cache
+C:\Working\AspCore2\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.csproj.CoreCompileInputs.cache
+C:\Working\AspCore2\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.AssemblyInfoInputs.cache
+C:\Working\AspCore2\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.AssemblyInfo.cs
+C:\Working\AspCore2\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.pdb
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Common\bin\Debug\netcoreapp2.0\MyCompany.Common.deps.json
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Common\bin\Debug\netcoreapp2.0\MyCompany.Common.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Common\bin\Debug\netcoreapp2.0\MyCompany.Common.pdb
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.csprojResolveAssemblyReference.cache
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.AssemblyInfoInputs.cache
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.AssemblyInfo.cs
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Common\obj\Debug\netcoreapp2.0\MyCompany.Common.pdb

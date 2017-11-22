@@ -1,0 +1,26 @@
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Repository.deps.json
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Repository.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Repository.pdb
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Common.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Data.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Data.pdb
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Common.pdb
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.csprojResolveAssemblyReference.cache
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.csproj.CoreCompileInputs.cache
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.AssemblyInfoInputs.cache
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.AssemblyInfo.cs
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.dll
+C:\Working\AspCore2\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.pdb
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.AssemblyInfoInputs.cache
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.AssemblyInfo.cs
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\obj\Debug\netcoreapp2.0\MyCompany.Repository.pdb
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Repository.deps.json
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Repository.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Repository.pdb
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Common.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Data.dll
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Common.pdb
+C:\Users\Vu Nguyen\Documents\GitHub\aspcore\MyCompany\MyCompany.Repository\bin\Debug\netcoreapp2.0\MyCompany.Data.pdb

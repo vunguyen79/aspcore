@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>aspnet-MyCompany.Api-69454A07-F9D1-45C4-9133-996EF9EAE170</UserSecretsId>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="MailKit" Version="1.20.0" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+    <DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="2.0.0" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="LogConfigure\">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Folder>
+    <Folder Include="LogTracking\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyCompany.Common\MyCompany.Common.csproj" />
+    <ProjectReference Include="..\MyCompany.Data\MyCompany.Data.csproj" />
+    <ProjectReference Include="..\MyCompany.Repository\MyCompany.Repository.csproj" />
+    <ProjectReference Include="..\MyCompany.Service\MyCompany.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LogConfigure\log4net.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
