@@ -9,11 +9,10 @@ using MyCompany.Api.Models;
 using MyCompany.Api.Services;
 using MyCompany.Data;
 using MyCompany.Service.Services.Users;
-using MyCompany.Service.IServices.Users;
 using MyCompany.Repository.UnitOfWorks;
 using MyCompany.Service.Factories;
-using MyCompany.Api.Services.Emails;
 using MyCompany.Service.Mapping;
+using MyCompany.Service.Services.Emails;
 
 namespace MyCompany.Api
 {

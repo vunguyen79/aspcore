@@ -4,11 +4,11 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyCompany.Service.IServices.Users
+namespace MyCompany.Service.Services.Users
 {
-    public interface IRoleService : IServiceBase<Role, RoleDto>
+    public interface IPermissionService : IServiceBase<Permission, PermissionDto>
     {
     }
-}
 
+}
 

@@ -4,7 +4,7 @@ using MimeKit.Text;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MyCompany.Api.Services.Emails
+namespace MyCompany.Service.Services.Emails
 {
     public class EmailService : IEmailService
     {

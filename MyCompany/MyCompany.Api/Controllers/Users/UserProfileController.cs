@@ -1,6 +1,6 @@
-﻿using MyCompany.Service.IServices.Users;
-using MyCompany.Data.Entities.Users;
+﻿using MyCompany.Data.Entities.Users;
 using MyCompany.Service.Dtos.Users;
+using MyCompany.Service.Services.Users;
 
 namespace MyCompany.Api.Controllers.Users
 {

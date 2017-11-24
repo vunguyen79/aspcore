@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MyCompany.Service.Dtos.Users;
 using MyCompany.Data.Entities.Users;
-using MyCompany.Service.IServices.Users;
+using MyCompany.Service.Services.Users;
 
 namespace MyCompany.Api.Controllers.Users
 {

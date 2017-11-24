@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyCompany.Service.IServices.Users
+namespace MyCompany.Service.Services.Users
 {
     public interface IUserProfileService : IServiceBase<UserProfile, UserProfileDto>
     {

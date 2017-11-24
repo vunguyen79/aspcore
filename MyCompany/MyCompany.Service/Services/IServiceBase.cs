@@ -6,7 +6,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyCompany.Service.IServices
+namespace MyCompany.Service.Services
 {
     public interface IServiceBase<TEntity, TDto>
     {

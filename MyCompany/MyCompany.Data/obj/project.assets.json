@@ -1591,7 +1591,7 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
+      "sha512": "z5p4gIQTGOLesjeZcDiXqaORuF3SC3lL/ASgejQGnySu+JA+d6YTfhaLP+Nl41gh7BO01IA0tUUYrX6PVVFj1g==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
